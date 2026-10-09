@@ -1,0 +1,7 @@
+line-length = 79
+extend-exclude = [
+    "tests",
+    "test_*.py",
+    "*_test.py",
+    "conftest.py",
+]
